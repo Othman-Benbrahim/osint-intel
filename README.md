@@ -74,3 +74,4 @@ Optionnels. Le skill démarre sans historique si absents.
 - OSINT-Prospective / Signaux du Futur
 - Prediction Engine (orchestre Superforecasting · Bayesian Updater · Calibration Engine)
 - Partie de l'écosystème [IRIS∞](https://github.com/Othman-Benbrahim)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Othman-Benbrahim/osint-intel)
